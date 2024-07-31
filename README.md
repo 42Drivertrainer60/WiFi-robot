@@ -8,4 +8,6 @@ buck converters so i only need one power sorse,
 
 firy lights, 
 
-ip camera
+ip camera,
+
+BT7960 motor controller 35volts 15 amps
